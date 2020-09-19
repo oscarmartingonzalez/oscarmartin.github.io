@@ -1,3 +1,3 @@
-# oscarmartin.github.io
-Oscar Martin [personal site](https://oscarmartin.github.io).
+# oscarmartingonzalez.github.io
+Oscar Martin [personal site](https://oscarmartingonzalez.github.io).
 
